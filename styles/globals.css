@@ -4,6 +4,11 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  background-color: #a9a9a9;
+  background-image: url("../images/solnft.png");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 a {
@@ -13,4 +18,10 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+div {
+  background-color: red;
+  width: 250px;
+  height: 400px;
 }
